@@ -4,6 +4,8 @@ Differential expression analysis of hippocampal RNA-seq data from female *Ins2â
 
 > Baehring SK, O'Leary TP, Cen HH, et al. (2026). Loss of brain insulin production impairs learning and memory in female mice. *Metabologia* 2:4. https://doi.org/10.1007/s44357-026-00004-8
 
+ðŸ“Š **[View the full rendered analysis (HTML report)](https://elelia04.github.io/Ins2-KO-Hippocampus-RNAseq/)**
+
 ## Dataset
 
 - **Organism**: *Mus musculus*
